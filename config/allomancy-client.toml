@@ -1,0 +1,11 @@
+
+[Graphics]
+	#Maximum iron/steelsight distance
+	#Range: 3 ~ 30
+	max_metal_distance = 15
+	#Animate the selection wheel
+	animate_selection = true
+	#Screen Overlay Position
+	#Allowed Values: TOP_RIGHT, BOTTOM_RIGHT, TOP_LEFT, BOTTOM_LEFT
+	overlay_position = "TOP_LEFT"
+
